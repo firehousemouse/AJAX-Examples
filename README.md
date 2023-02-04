@@ -1,2 +1,2 @@
-# AJAX-Examples
-AJAX Examples
+# What is AJAX?
+Ajax (Asynchronous JavaScript and XML) is a technique used to create dynamic and fast web pages. It allows your web browser to communicate with a web server and request information without having to refresh the entire page. This is achieved by sending an HTTP request (such as a GET request) to the server in the background, while the rest of the page continues to load and function normally. The response from the server is then processed by JavaScript and used to update the page dynamically, providing a more seamless user experience. Ajax is widely used for tasks such as retrieving data from a database, searching for information, or updating parts of a page without reloading the whole page.
